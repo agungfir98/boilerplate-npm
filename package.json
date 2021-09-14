@@ -1,5 +1,6 @@
 {
-	"name": "Agung Firmansyah",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Agung Firmansyah",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
