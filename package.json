@@ -4,6 +4,7 @@
 	"description": "Back End lesson on JSON file",
 	"keywords": ["lesson", "freecodecamp", "APIs"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
