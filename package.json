@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Agung",
 	"description": "Back End lesson on JSON file",
-	"keywords": ["lesson", "freecode camp", "APIs"],
+	"keywords": ["lesson", "freecodecamp", "APIs"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
